@@ -1,0 +1,7 @@
+# ninja log v5
+0	7077	1719835995749807054	/home/vr/Master_Bharathi/code/TransVOD/models/ops/build/temp.linux-x86_64-3.7/home/vr/Master_Bharathi/code/TransVOD/models/ops/src/cpu/ms_deform_attn_cpu.o	cf8baf6bcc8e7a2a
+0	20174	1719836008850160248	/home/vr/Master_Bharathi/code/TransVOD/models/ops/build/temp.linux-x86_64-3.7/home/vr/Master_Bharathi/code/TransVOD/models/ops/src/cuda/ms_deform_attn_cuda.o	c73aa456c40425ad
+1	23618	1719836012282252824	/home/vr/Master_Bharathi/code/TransVOD/models/ops/build/temp.linux-x86_64-3.7/home/vr/Master_Bharathi/code/TransVOD/models/ops/src/vision.o	20058d4c0fa46168
+19	6194	1719836019554449041	/home/vr/Master_Bharathi/code/TransVOD/models/ops/build/temp.linux-x86_64-3.7/home/vr/Master_Bharathi/code/TransVOD/models/ops/src/cpu/ms_deform_attn_cpu.o	4b4ead90b40d576b
+19	18449	1719836031810779925	/home/vr/Master_Bharathi/code/TransVOD/models/ops/build/temp.linux-x86_64-3.7/home/vr/Master_Bharathi/code/TransVOD/models/ops/src/cuda/ms_deform_attn_cuda.o	72898e6f1c2e493c
+20	25296	1719836038642964472	/home/vr/Master_Bharathi/code/TransVOD/models/ops/build/temp.linux-x86_64-3.7/home/vr/Master_Bharathi/code/TransVOD/models/ops/src/vision.o	1677d3fce2bd6f2d

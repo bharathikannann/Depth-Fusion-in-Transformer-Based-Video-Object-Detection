@@ -1,0 +1,4 @@
+# ninja log v5
+0	8239	1712928481081526878	/home/vr/Master_Bharathi/code/TransVOD/models/ops/build/temp.linux-x86_64-cpython-37/home/vr/Master_Bharathi/code/TransVOD/models/ops/src/cpu/ms_deform_attn_cpu.o	834448cb21224388
+0	19599	1712928492429850286	/home/vr/Master_Bharathi/code/TransVOD/models/ops/build/temp.linux-x86_64-cpython-37/home/vr/Master_Bharathi/code/TransVOD/models/ops/src/cuda/ms_deform_attn_cuda.o	49714a2bbb5ee5e3
+0	23685	1712928496517966801	/home/vr/Master_Bharathi/code/TransVOD/models/ops/build/temp.linux-x86_64-cpython-37/home/vr/Master_Bharathi/code/TransVOD/models/ops/src/vision.o	f98a1a809a6451a9

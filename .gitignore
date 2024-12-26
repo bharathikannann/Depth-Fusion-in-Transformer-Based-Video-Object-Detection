@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+venv/
+
+# VS Code settings
+.vscode/
+
+# PyTorch cache
+torch_cache/
+torch_extensions/
+*.pt
+
+# Environment files
+.env
+
+# macOS
+.DS_Store
+
+# All inference results
+benchmarking_tool_original/
+vr_configs/
+
+# Model weights
+model_weights/
+
+#.pth files
+*.pth

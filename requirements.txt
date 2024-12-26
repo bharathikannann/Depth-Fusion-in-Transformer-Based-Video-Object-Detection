@@ -1,0 +1,7 @@
+pycocotools
+cython
+scipy
+wandb
+tqdm
+graphviz
+opencv-python
